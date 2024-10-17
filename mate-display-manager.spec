@@ -7,7 +7,7 @@ Version:	1.4.0
 Release:	1
 License:	GPLv2+ 
 Group:		System/X11
-URL:		http://mate-desktop.org	
+URL:		https://mate-desktop.org	
 Source0:	http://vicodan.fedorapeople.org/mate-display-manager-1.4.0.tar.gz
 Patch0:		mate-display-manager-1.4.0_mateconf_min_ver.patch
 
