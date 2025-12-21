@@ -11,6 +11,11 @@ URL:		https://mate-desktop.org
 Source0:	http://vicodan.fedorapeople.org/mate-display-manager-1.4.0.tar.gz
 Patch0:		mate-display-manager-1.4.0_mateconf_min_ver.patch
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	intltool
 BuildRequires:	icon-naming-utils
 BuildRequires:	mate-common
